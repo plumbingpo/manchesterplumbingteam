@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manchesterplumbingteam.com/sitemap.xml
